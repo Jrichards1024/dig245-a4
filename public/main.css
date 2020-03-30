@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+}
+#navbar {
+  color: transparent;
+  width: 10000;
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+
+
+}
+
+#firsthead {
+  text-align: center;
+  /* transform: translatex(3%); */
+}
+#search {
+  position: absolute;
+  left: 82%;
+  transform: translatex(20%);
+  transform: translateY(20%);
+}
+
+
+
+/* .navbar{
+  width: 10000;
+} */
+
+#welcome {
+  transform: translateY(500%);
+}
+
+#picture {
+  transform: translateY(50%);
+}
+
+#dropdown {
+  position: absolute;
+  left: 47%;
+  transform: translateY(500%)
+}
